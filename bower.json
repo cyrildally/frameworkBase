@@ -1,6 +1,9 @@
 {
   "name": "frameworkBase",
   "version": "0.0.1",
+  "dependencies": {
+        "jquery": "1.11.1"
+    },
   "authors": [
     "Cyril Dally <c.dally@anoki.it>"
   ],
