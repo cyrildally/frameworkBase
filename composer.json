@@ -1,0 +1,15 @@
+{
+    "name": "frameworkBase",
+    "description": "Standard Composer components",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cyril Dally",
+            "email": "c.dally@anoki.it"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.17",
+        "altorouter/altorouter": "^1.1"
+    }
+}
