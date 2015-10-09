@@ -4,3 +4,4 @@ vendor/
 *.sublime-*
 composer.lock
 public/
+.env*

@@ -1,0 +1,11 @@
+node_modules/
+source/
+.env.*
+.gitignore
+README
+*.sublime-*
+bower.json
+composer.*
+gulpfile.js
+package.json
+rsync-excludelist
