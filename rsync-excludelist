@@ -2,7 +2,7 @@ node_modules/
 source/
 .env.*
 .gitignore
-README
+README*
 *.sublime-*
 bower.json
 composer.*
